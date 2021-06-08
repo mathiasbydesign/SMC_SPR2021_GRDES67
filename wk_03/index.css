@@ -1,0 +1,34 @@
+.jumbotron {
+  background-image: url(img/barista_counter.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+}
+
+.container .display-4 {
+  color: #E6B687;
+  font-size: 3em;
+  font-family: PT Mono;
+}
+
+.container > p {
+  color: #FBFBFB;
+  font-family: Helvetica-light;
+}
+
+.container .col-sm-4 {
+  text-align: center;
+}
+
+.conatiner .col-sm-4 p {
+  text-align: left;
+}
+
+.container {
+	justify-content: center;
+}
+
+.rounded {
+	max-width: 30%;
+	max-height: auto;
+} 
